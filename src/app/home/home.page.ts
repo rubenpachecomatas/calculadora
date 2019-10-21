@@ -29,6 +29,4 @@ export class HomePage {
     }
   }
 
-  click
-
 }
